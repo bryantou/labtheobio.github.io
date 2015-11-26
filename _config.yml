@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            The Lab of Theoretical Biology
+title:            The Laboratory of Theoretical Biology
 tagline:          理論生物學實驗室
-description:      "Computational Biology"
+description:      "Exploring the association between billion pair diseases"
 url:              https://github.com/labtheobio/labtheobio.github.io
 baseurl:          /
 
