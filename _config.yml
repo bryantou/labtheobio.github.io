@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            The Lab of Theoretical Biology
 tagline:          理論生物學實驗室
-description:      "Computational Biology"
+description:      "Computational Biology......"
 url:              https://github.com/labtheobio/labtheobio.github.io
 baseurl:          /
 
